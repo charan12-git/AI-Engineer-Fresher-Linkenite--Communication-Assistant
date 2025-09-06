@@ -1,0 +1,11 @@
+Sender,Subject,Body,Date
+client3@example.com,Support: Urgent issue with dashboard,Could you help me reset my password? I forgot it and cannot login.,2025-09-04 00:00:00
+user1@example.com,Request for product information,"We cannot access our system, it's a critical blocker. Please assist immediately.",2025-09-04 03:00:00
+vip5@example.com,Support: Urgent issue with dashboard,"Dashboard is not loading at all, it's critical for my work.",2025-09-04 06:00:00
+partner4@example.com,Support: Urgent issue with dashboard,"We cannot access our system, it's a critical blocker. Please assist immediately.",2025-09-04 09:00:00
+user1@example.com,Query: How to reset password,My payment is failing again and again. Need urgent help!,2025-09-04 12:00:00
+partner4@example.com,Help! Payment not going through,Could you help me reset my password? I forgot it and cannot login.,2025-09-04 15:00:00
+client3@example.com,Support needed: Cannot login to account,"We cannot access our system, it's a critical blocker. Please assist immediately.",2025-09-04 18:00:00
+customer2@example.com,Critical: Cannot access system,"Hello, I am unable to access my account since yesterday. Please resolve this immediately.",2025-09-04 21:00:00
+user1@example.com,Question about subscription plan,My payment is failing again and again. Need urgent help!,2025-09-05 00:00:00
+customer2@example.com,General feedback about service,"Hello, I am unable to access my account since yesterday. Please resolve this immediately.",2025-09-05 03:00:00

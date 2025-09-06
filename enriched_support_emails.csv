@@ -1,0 +1,134 @@
+sender,subject,body,sent_date,__date,sentiment_score,sentiment,priority,extracted_phones,extracted_emails,requirements_summary,mentioned_product,draft_reply,__priority_rank,status
+alice@example.com,General query about subscription,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-26 02:58:09,2025-08-26 02:58:09,-1,Negative,Urgent,,,"Our servers are down, and we need immediate support.",Our,"Hi Alice,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Our**. We've prioritized this request and will address it right away. From your message, I understand: Our servers are down, and we need immediate support. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+alice@example.com,Query about product pricing,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-24 13:58:09,2025-08-24 13:58:09,-1,Negative,Urgent,,,There is a billing error where I was charged twice.,pricing,"Hi Alice,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **pricing**. We've prioritized this request and will address it right away. From your message, I understand: There is a billing error where I was charged twice. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+eve@startup.io,Query about product pricing,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-22 09:58:09,2025-08-22 09:58:09,-1,Negative,Urgent,,,"Our servers are down, and we need immediate support.",pricing,"Hi Eve,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **pricing**. We've prioritized this request and will address it right away. From your message, I understand: Our servers are down, and we need immediate support. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+alice@example.com,Urgent request: system access blocked,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-21 21:58:09,2025-08-21 21:58:09,-1,Negative,Urgent,,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Urgent,"Hi Alice,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Urgent**. We've prioritized this request and will address it right away. From your message, I understand: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue? Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+eve@startup.io,Critical help needed for downtime,"Our servers are down, and we need immediate support. This is highly critical.",2025-08-21 19:58:09,2025-08-21 19:58:09,-1,Negative,Urgent,,,"Our servers are down, and we need immediate support.",Critical,"Hi Eve,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Critical**. We've prioritized this request and will address it right away. From your message, I understand: Our servers are down, and we need immediate support. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+eve@startup.io,Immediate support needed for billing error,"Hello, I wanted to understand the pricing tiers better. Could you share a detailed breakdown?",2025-08-20 12:58:09,2025-08-20 12:58:09,-1,Negative,Urgent,,,,Immediate,"Hi Eve,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Immediate**. We've prioritized this request and will address it right away. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+bob@customer.com,Urgent request: system access blocked,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 13:58:09,2025-08-19 13:58:09,-1,Negative,Urgent,,,"Despite multiple attempts, I cannot reset my password.",Urgent,"Hi Bob,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Urgent**. We've prioritized this request and will address it right away. From your message, I understand: Despite multiple attempts, I cannot reset my password. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+alice@example.com,Critical help needed for downtime,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-18 08:58:09,2025-08-18 08:58:09,-1,Negative,Urgent,,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Critical,"Hi Alice,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Critical**. We've prioritized this request and will address it right away. From your message, I understand: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue? Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+charlie@partner.org,Help required with account verification,"This is urgent – our system is completely inaccessible, and this is affecting our operations.",2025-08-18 00:58:09,2025-08-18 00:58:09,-1,Negative,Urgent,,,,Help,"Hi Charlie,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Help**. We've prioritized this request and will address it right away. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",0,Pending
+diana@client.co,Support needed for login issue,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-26 15:58:09,2025-08-26 15:58:09,0,Neutral,Not urgent,,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Support,"Hi Diana,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Support**. From your message, I understand: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue? Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+alice@example.com,General query about subscription,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-26 01:58:09,2025-08-26 01:58:09,0,Neutral,Not urgent,,,,I,"Hi Alice,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **I**. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+diana@client.co,General query about subscription,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",2025-08-25 00:58:09,2025-08-25 00:58:09,0,Neutral,Not urgent,,,"Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue?",Hi,"Hi Diana,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Hi**. From your message, I understand: Hi team, I am unable to log into my account since yesterday. Could you please help me resolve this issue? Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-24 05:58:09,2025-08-24 05:58:09,0,Neutral,Not urgent,,,,Help,"Hi Alice,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Help**. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+diana@client.co,Support needed for login issue,I am facing issues with verifying my account. The verification email never arrived. Can you assist?,2025-08-23 06:58:09,2025-08-23 06:58:09,0,Neutral,Not urgent,,,,Support,"Hi Diana,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Support**. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+diana@client.co,Request for refund process clarification,Could you clarify the steps involved in requesting a refund? I submitted one last week but have no update.,2025-08-22 17:58:09,2025-08-22 17:58:09,0,Neutral,Not urgent,,,Could you clarify the steps involved in requesting a refund?,Request,"Hi Diana,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Request**. From your message, I understand: Could you clarify the steps involved in requesting a refund? Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+alice@example.com,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-21 13:58:09,2025-08-21 13:58:09,0,Neutral,Not urgent,,,,Help,"Hi Alice,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Help**. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+diana@client.co,Help required with account verification,There is a billing error where I was charged twice. This needs immediate correction.,2025-08-20 19:58:09,2025-08-20 19:58:09,-1,Negative,Not urgent,,,There is a billing error where I was charged twice.,Help,"Hi Diana,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Help**. From your message, I understand: There is a billing error where I was charged twice. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+alice@example.com,Immediate support needed for billing error,"Despite multiple attempts, I cannot reset my password. The reset link doesn’t seem to work.",2025-08-19 07:58:09,2025-08-19 07:58:09,-1,Negative,Not urgent,,,"Despite multiple attempts, I cannot reset my password.",Immediate,"Hi Alice,
+
+I'm sorry for the trouble you're facing. I understand how frustrating this can be, and I'm here to help. We see this is related to **Immediate**. From your message, I understand: Despite multiple attempts, I cannot reset my password. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
+eve@startup.io,Help required with account verification,"Do you support integration with third-party APIs? Specifically, I’m looking for CRM integration options.",2025-08-19 00:58:09,2025-08-19 00:58:09,0,Neutral,Not urgent,,,,Help,"Hi Eve,
+
+Thanks for reaching out. I'd be happy to help. We see this is related to **Help**. Could you confirm any recent changes and share a screenshot of the issue? Meanwhile, I'm checking logs and our knowledge base for similar reports. We'll keep you posted on progress. If there's anything else you want to add, just reply to this email.
+
+Best regards,
+Support Team
+",1,Pending
